@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MvcContrib.Mvc5.Castle</id>
+    <version>2.0.96.0</version>
+    <authors>Codeplex Foundation</authors>
+    <owners>Codeplex Foundation</owners>
+    <licenseUrl>http://mvccontrib.codeplex.com/license</licenseUrl>
+    <projectUrl>http://mvccontrib.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>MvcContrib.Mvc5.Castle is an addon for MvcContrib.Mvc5 that contains WindsorControllerFactory to work with Castle.Windsor.</description>
+    <tags>mvc mvccontrib castle</tags>
+    <dependencies>
+      <dependency id="MvcContrib.Mvc5" version="5.0.0.0" />
+    </dependencies>
+  </metadata>
+</package>
